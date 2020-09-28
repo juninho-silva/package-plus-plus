@@ -1,4 +1,4 @@
-# Package Plus
+# Package ++
 
 #### Extension packages to boost your Visual Studio code, individually chosen extensions, to help the day to day programmer
 

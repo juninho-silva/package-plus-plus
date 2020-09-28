@@ -1,9 +1,9 @@
 {
-    "name": "package-plus",
-    "displayName": "Package Plus",
+    "name": "package-plus-plus",
+    "displayName": "Package ++",
     "description": "Productivity extensions to make your code enviroment even more fluid",
     "version": "0.0.1",
-    "publisher": "juninhosilva",
+    "publisher": "package-plus",
     "author": {
         "name": "Fabio Junio"
     },
@@ -12,11 +12,11 @@
     },
     "icon": "logo.png",
     "repository": {
-        "url": "https://github.com/juninho-silva/package-plus"
+        "url": "https://github.com/juninho-silva/package-plus-plus"
     },
-    "homepage": "https://github.com/juninho-silva/package-plus",
+    "homepage": "https://github.com/juninho-silva/package-plus-plus",
     "bugs": {
-        "url": "https://github.com/juninho-silva/package-plus/issues"
+        "url": "https://github.com/juninho-silva/package-plus-plus/issues"
     },
     "keywords": [
         "theme dark",
