@@ -1,0 +1,33 @@
+{
+    "name": "package-plus",
+    "displayName": "Package Plus",
+    "description": "Productivity extensions to make your code enviroment even more fluid",
+    "version": "0.0.1",
+    "publisher": "juninhosilva",
+    "author": {
+        "name": "Fabio Junio"
+    },
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "alefragnani.bookmarks",
+        "drywolf.dark-plus-plus-theme",
+        "coenraads.bracket-pair-colorizer",
+        "christian-kohler.path-intellisense",
+        "tabnine.tabnine-vscode",
+        "wayou.vscode-todo-highlight",
+        "ms-vscode.vs-keybindings",
+        "wallabyjs.quokka-vscode",
+        "pkief.material-icon-theme",
+        "ritwickdey.liveserver",
+        "ms-vsliveshare.vsliveshare",
+        "ms-vsliveshare.vsliveshare-audio",
+        "eamodio.gitlens",
+        "formulahendry.auto-rename-tag",
+        "vivaxy.vscode-conventional-commits"
+    ]
+}
