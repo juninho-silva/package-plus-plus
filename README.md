@@ -1,3 +1,5 @@
+<img src="./logo.png" alt="logo" width="200"/> 
+
 # Package ++
 
 #### Extension packages to boost your Visual Studio code, individually chosen extensions, to help the day to day programmer
